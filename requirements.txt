@@ -1,11 +1,12 @@
 
 tensorflow==2.20.0
-protobuf==3.20.3
+protobuf
 
 numpy
 pandas
 scikit-learn
 matplotlib
+
 
 
 
